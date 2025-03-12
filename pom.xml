@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>digital.bangie.reedsolomon</groupId>
+    <artifactId>reedsolomon</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>ReedSolomon Java</name>
+    <description>Reed-Solomon erasure coding library written in pure Java</description>
+    <url>https://github.com/Nikola-Bangie-Cvetkovic/reedsolomon</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>bangie</id>
+            <name>Nikola-Bangie-Cvetkovic</name>
+            <url>https://github.com/Nikola-Bangie-Cvetkovic</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/Nikola-Bangie-Cvetkovic/reedsolomon</url>
+        <connection>scm:git:https://github.com/Nikola-Bangie-Cvetkovic/reedsolomon.git</connection>
+    </scm>
+</project>
