@@ -13,6 +13,15 @@
     <description>Reed-Solomon erasure coding library written in pure Java</description>
     <url>https://github.com/Nikola-Bangie-Cvetkovic/reedsolomon</url>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/Nikola-Bangie-Cvetkovic/reedsolomon</url>
+        </repository>
+    </distributionManagement>
+
+
     <licenses>
         <license>
             <name>MIT License</name>
